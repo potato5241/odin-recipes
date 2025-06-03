@@ -1,0 +1,66 @@
+.main {
+    font-family: Papyrus, Copperplate, fantasy;
+    color: rgb(41, 40, 40);
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(105, 88, 16);
+    color: white;
+    border: double rgb(60, 60, 60) 10px;
+    width: 460px;
+    margin: 30px auto auto;
+    padding: 20px;
+}
+
+.recipes {
+    font-size: 40px;
+    font-family: Copperplate, fantasy;
+    color: white;
+    text-align: center;
+}
+
+html {
+    background-color: #b4c3dc;
+}
+
+.recipe {
+    color: rgb(59, 58, 58);
+    margin: 5px 20px;
+    padding: 5px 20px;
+    border: dotted rgb(12, 11, 11) 10px;
+    font-size: 25px;
+    font-family: papyrus, fantasy;
+}
+
+.h1 {
+    font-size: 55px;
+    text-align: center;
+    color: rgb(105, 88, 16);
+}
+
+.img {
+    width: 400px;
+    display:block;
+    margin: 0px auto;
+}
+
+.description {
+    text-align: center;
+}
+
+.description,
+.h4,
+.h3 {
+    padding: 10px;
+}
+
+.h2 {
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.h3 {
+    font-size: 30px;
+    text-decoration: underline;
+}
